@@ -1,0 +1,2 @@
+# Multi-Agent-Deep-Reinforcement-Learning-A-Discussion-on-Methods-Experiments-and-Limitations
+Multi-Agent Deep Reinforcement Learning (MADRL) explores cooperative and decentralized learning approaches that combine deep learning and reinforcement learning to solve complex multi-agent problems. This repository reviews key techniques, applications, and open challenges in scalability, stability, and real world deployment.
